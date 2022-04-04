@@ -6,7 +6,7 @@
 ![Commits since release](https://img.shields.io/github/commits-since/0xC316c/Language-Changer/latest/master)
 
 ## About
-GUI Based Game Language Changer by Darck Team. For now only works with games that are cracked and have **steam_emu.ini** file.
+GUI based **Game Language Changer** by Darck Team. For now only works with games that are cracked and have **steam_emu.ini** file.
 
 ## Contributors
 In addition to contributors reported by git, people who contributed to this repository are: **Grim_Reaper** & **-ZH!¥ÃM™RRC-**.
